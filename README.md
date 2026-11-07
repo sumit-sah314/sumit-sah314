@@ -27,7 +27,6 @@ I'm a **Computer Science + Applied Mathematics** student at **Texas State Univer
 - 🔬 **Undergrad ML Researcher @ TXST Math**: gradient descent and SGD, CNNs and ResNets in PyTorch, adversarial robustness with optimal transport
 - 🎥 **Creator of [Intuimation](https://youtube.com/@intuimation.314)**: visual math, physics and CS explainers built with Manim
 - 🏆 Outstanding Undergraduate Student Award (TXST Math), Math Club President, Calculus Bee Champion
-- 🧩 Solving problems on LeetCode and Codeforces
 
 ## 🛠️ Tech stack
 
